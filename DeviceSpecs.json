@@ -1,0 +1,1960 @@
+[
+  {
+    "identifier": "iPhone19,2",
+    "marketingName": "iPhone 18 Pro",
+    "releaseYear": 2026,
+    "supportsAppleIntelligence": true,
+    "launchOS": "iOS 27",
+    "latestSupportedOS": "iOS 27",
+    "chip": "A20 Pro",
+    "ram": "12 GB",
+    "storageOptions": [
+      "256 GB",
+      "512 GB",
+      "1 TB",
+      "2 TB"
+    ],
+    "camera": "48 MP Fusion + ultra-wide + tele 4x",
+    "connectivity": "5G · Wi-Fi 7 · USB-C 3",
+    "display": "6.3\" OLED, 120 Hz",
+    "battery": "4056–4288 mAh"
+  },
+  {
+    "identifier": "iPhone19,3",
+    "marketingName": "iPhone 18 Pro Max",
+    "releaseYear": 2026,
+    "supportsAppleIntelligence": true,
+    "launchOS": "iOS 27",
+    "latestSupportedOS": "iOS 27",
+    "chip": "A20 Pro",
+    "ram": "12 GB",
+    "storageOptions": [
+      "256 GB",
+      "512 GB",
+      "1 TB",
+      "2 TB"
+    ],
+    "camera": "48 MP Fusion + ultra-wide + tele 4x",
+    "connectivity": "5G · Wi-Fi 7 · USB-C 3",
+    "display": "6.9\" OLED, 120 Hz",
+    "battery": "5391–5567 mAh"
+  },
+  {
+    "identifier": "iPhone19,7",
+    "marketingName": "iPhone 18 Pro Max",
+    "releaseYear": 2026,
+    "supportsAppleIntelligence": true,
+    "launchOS": "iOS 27",
+    "latestSupportedOS": "iOS 27",
+    "chip": "A20 Pro",
+    "ram": "12 GB",
+    "storageOptions": [
+      "256 GB",
+      "512 GB",
+      "1 TB",
+      "2 TB"
+    ],
+    "camera": "48 MP Fusion + ultra-wide + tele 4x",
+    "connectivity": "5G · Wi-Fi 7 · USB-C 3",
+    "display": "6.9\" OLED, 120 Hz",
+    "battery": "5391–5567 mAh"
+  },
+  {
+    "identifier": "iPhone19,4",
+    "marketingName": "iPhone Duo",
+    "releaseYear": 2026,
+    "supportsAppleIntelligence": true,
+    "launchOS": "iOS 27",
+    "latestSupportedOS": "iOS 27",
+    "chip": "A20 Pro",
+    "ram": "12 GB",
+    "storageOptions": [
+      "256 GB",
+      "512 GB",
+      "1 TB",
+      "2 TB"
+    ],
+    "display": "7.6\" foldable OLED, 120 Hz + 5.4\" cover",
+    "camera": "48 MP Fusion + 48 MP ultra-wide",
+    "connectivity": "5G · Wi-Fi 7 · USB-C"
+  },
+  {
+    "identifier": "iPhone13,1",
+    "marketingName": "iPhone 12 mini",
+    "releaseYear": 2020,
+    "chip": "A14 Bionic",
+    "ram": "4 GB",
+    "storageOptions": [
+      "64 GB",
+      "128 GB",
+      "256 GB"
+    ],
+    "display": "5.4\" OLED, 60 Hz",
+    "supportsAppleIntelligence": false,
+    "battery": "2227 mAh",
+    "camera": "12 MP wide + ultra-wide",
+    "connectivity": "5G · Wi-Fi 6 · Lightning",
+    "launchOS": "iOS 14",
+    "latestSupportedOS": "iOS 26"
+  },
+  {
+    "identifier": "iPhone13,2",
+    "marketingName": "iPhone 12",
+    "releaseYear": 2020,
+    "chip": "A14 Bionic",
+    "ram": "4 GB",
+    "storageOptions": [
+      "64 GB",
+      "128 GB",
+      "256 GB"
+    ],
+    "display": "6.1\" OLED, 60 Hz",
+    "supportsAppleIntelligence": false,
+    "battery": "2815 mAh",
+    "camera": "12 MP wide + ultra-wide",
+    "connectivity": "5G · Wi-Fi 6 · Lightning",
+    "launchOS": "iOS 14",
+    "latestSupportedOS": "iOS 26"
+  },
+  {
+    "identifier": "iPhone13,3",
+    "marketingName": "iPhone 12 Pro",
+    "releaseYear": 2020,
+    "chip": "A14 Bionic",
+    "ram": "6 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB"
+    ],
+    "display": "6.1\" OLED, 60 Hz",
+    "supportsAppleIntelligence": false,
+    "battery": "2815 mAh",
+    "camera": "12 MP wide + ultra-wide + tele",
+    "connectivity": "5G · Wi-Fi 6 · Lightning",
+    "launchOS": "iOS 14",
+    "latestSupportedOS": "iOS 26"
+  },
+  {
+    "identifier": "iPhone13,4",
+    "marketingName": "iPhone 12 Pro Max",
+    "releaseYear": 2020,
+    "chip": "A14 Bionic",
+    "ram": "6 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB"
+    ],
+    "display": "6.7\" OLED, 60 Hz",
+    "supportsAppleIntelligence": false,
+    "battery": "3687 mAh",
+    "camera": "12 MP wide + ultra-wide + tele",
+    "connectivity": "5G · Wi-Fi 6 · Lightning",
+    "launchOS": "iOS 14",
+    "latestSupportedOS": "iOS 26"
+  },
+  {
+    "identifier": "iPhone14,4",
+    "marketingName": "iPhone 13 mini",
+    "releaseYear": 2021,
+    "chip": "A15 Bionic",
+    "ram": "4 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB"
+    ],
+    "display": "5.4\" OLED, 60 Hz",
+    "supportsAppleIntelligence": false,
+    "battery": "2438 mAh",
+    "camera": "12 MP wide + ultra-wide",
+    "connectivity": "5G · Wi-Fi 6 · Lightning",
+    "launchOS": "iOS 15",
+    "latestSupportedOS": "iOS 26"
+  },
+  {
+    "identifier": "iPhone14,5",
+    "marketingName": "iPhone 13",
+    "releaseYear": 2021,
+    "chip": "A15 Bionic",
+    "ram": "4 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB"
+    ],
+    "display": "6.1\" OLED, 60 Hz",
+    "supportsAppleIntelligence": false,
+    "battery": "3240 mAh",
+    "camera": "12 MP wide + ultra-wide",
+    "connectivity": "5G · Wi-Fi 6 · Lightning",
+    "launchOS": "iOS 15",
+    "latestSupportedOS": "iOS 26"
+  },
+  {
+    "identifier": "iPhone14,2",
+    "marketingName": "iPhone 13 Pro",
+    "releaseYear": 2021,
+    "chip": "A15 Bionic",
+    "ram": "6 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB",
+      "1 TB"
+    ],
+    "display": "6.1\" LTPO OLED, 120 Hz",
+    "supportsAppleIntelligence": false,
+    "battery": "3095 mAh",
+    "camera": "12 MP wide + ultra-wide + 3x tele",
+    "connectivity": "5G · Wi-Fi 6 · Lightning",
+    "launchOS": "iOS 15",
+    "latestSupportedOS": "iOS 26"
+  },
+  {
+    "identifier": "iPhone14,3",
+    "marketingName": "iPhone 13 Pro Max",
+    "releaseYear": 2021,
+    "chip": "A15 Bionic",
+    "ram": "6 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB",
+      "1 TB"
+    ],
+    "display": "6.7\" LTPO OLED, 120 Hz",
+    "supportsAppleIntelligence": false,
+    "battery": "4352 mAh",
+    "camera": "12 MP wide + ultra-wide + 3x tele",
+    "connectivity": "5G · Wi-Fi 6 · Lightning",
+    "launchOS": "iOS 15",
+    "latestSupportedOS": "iOS 26"
+  },
+  {
+    "identifier": "iPhone14,6",
+    "marketingName": "iPhone SE (3rd generation)",
+    "releaseYear": 2022,
+    "chip": "A15 Bionic",
+    "ram": "4 GB",
+    "storageOptions": [
+      "64 GB",
+      "128 GB",
+      "256 GB"
+    ],
+    "display": "4.7\" LCD, 60 Hz",
+    "supportsAppleIntelligence": false,
+    "battery": "2018 mAh",
+    "camera": "12 MP wide",
+    "connectivity": "5G · Wi-Fi 6 · Lightning",
+    "launchOS": "iOS 15.4",
+    "latestSupportedOS": "iOS 26"
+  },
+  {
+    "identifier": "iPhone14,7",
+    "marketingName": "iPhone 14",
+    "releaseYear": 2022,
+    "chip": "A15 Bionic",
+    "ram": "6 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB"
+    ],
+    "display": "6.1\" OLED, 60 Hz",
+    "supportsAppleIntelligence": false,
+    "battery": "3279 mAh",
+    "camera": "12 MP wide + ultra-wide",
+    "connectivity": "5G · Wi-Fi 6 · Lightning",
+    "launchOS": "iOS 16",
+    "latestSupportedOS": "iOS 26"
+  },
+  {
+    "identifier": "iPhone14,8",
+    "marketingName": "iPhone 14 Plus",
+    "releaseYear": 2022,
+    "chip": "A15 Bionic",
+    "ram": "6 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB"
+    ],
+    "display": "6.7\" OLED, 60 Hz",
+    "supportsAppleIntelligence": false,
+    "battery": "4325 mAh",
+    "camera": "12 MP wide + ultra-wide",
+    "connectivity": "5G · Wi-Fi 6 · Lightning",
+    "launchOS": "iOS 16",
+    "latestSupportedOS": "iOS 26"
+  },
+  {
+    "identifier": "iPhone15,2",
+    "marketingName": "iPhone 14 Pro",
+    "releaseYear": 2022,
+    "chip": "A16 Bionic",
+    "ram": "6 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB",
+      "1 TB"
+    ],
+    "display": "6.1\" LTPO OLED, 120 Hz",
+    "supportsAppleIntelligence": false,
+    "battery": "3200 mAh",
+    "camera": "48 MP main + ultra-wide + 3x tele",
+    "connectivity": "5G · Wi-Fi 6E · Lightning",
+    "launchOS": "iOS 16",
+    "latestSupportedOS": "iOS 26"
+  },
+  {
+    "identifier": "iPhone15,3",
+    "marketingName": "iPhone 14 Pro Max",
+    "releaseYear": 2022,
+    "chip": "A16 Bionic",
+    "ram": "6 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB",
+      "1 TB"
+    ],
+    "display": "6.7\" LTPO OLED, 120 Hz",
+    "supportsAppleIntelligence": false,
+    "battery": "4323 mAh",
+    "camera": "48 MP main + ultra-wide + 3x tele",
+    "connectivity": "5G · Wi-Fi 6E · Lightning",
+    "launchOS": "iOS 16",
+    "latestSupportedOS": "iOS 26"
+  },
+  {
+    "identifier": "iPhone15,4",
+    "marketingName": "iPhone 15",
+    "releaseYear": 2023,
+    "chip": "A16 Bionic",
+    "ram": "6 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB"
+    ],
+    "display": "6.1\" OLED, 60 Hz",
+    "supportsAppleIntelligence": false,
+    "battery": "3349 mAh",
+    "camera": "48 MP main + ultra-wide",
+    "connectivity": "5G · Wi-Fi 6 · USB-C",
+    "launchOS": "iOS 17",
+    "latestSupportedOS": "iOS 26"
+  },
+  {
+    "identifier": "iPhone15,5",
+    "marketingName": "iPhone 15 Plus",
+    "releaseYear": 2023,
+    "chip": "A16 Bionic",
+    "ram": "6 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB"
+    ],
+    "display": "6.7\" OLED, 60 Hz",
+    "supportsAppleIntelligence": false,
+    "battery": "4383 mAh",
+    "camera": "48 MP main + ultra-wide",
+    "connectivity": "5G · Wi-Fi 6 · USB-C",
+    "launchOS": "iOS 17",
+    "latestSupportedOS": "iOS 26"
+  },
+  {
+    "identifier": "iPhone16,1",
+    "marketingName": "iPhone 15 Pro",
+    "releaseYear": 2023,
+    "chip": "A17 Pro",
+    "ram": "8 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB",
+      "1 TB"
+    ],
+    "display": "6.1\" LTPO OLED, 120 Hz",
+    "supportsAppleIntelligence": true,
+    "battery": "3274 mAh",
+    "camera": "48 MP main + ultra-wide + 3x tele",
+    "connectivity": "5G · Wi-Fi 6E · USB-C 3",
+    "launchOS": "iOS 17",
+    "latestSupportedOS": "iOS 26"
+  },
+  {
+    "identifier": "iPhone16,2",
+    "marketingName": "iPhone 15 Pro Max",
+    "releaseYear": 2023,
+    "chip": "A17 Pro",
+    "ram": "8 GB",
+    "storageOptions": [
+      "256 GB",
+      "512 GB",
+      "1 TB"
+    ],
+    "display": "6.7\" LTPO OLED, 120 Hz",
+    "supportsAppleIntelligence": true,
+    "battery": "4441 mAh",
+    "camera": "48 MP main + ultra-wide + 5x tele",
+    "connectivity": "5G · Wi-Fi 6E · USB-C 3",
+    "launchOS": "iOS 17",
+    "latestSupportedOS": "iOS 26"
+  },
+  {
+    "identifier": "iPhone17,3",
+    "marketingName": "iPhone 16",
+    "releaseYear": 2024,
+    "chip": "A18",
+    "ram": "8 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB"
+    ],
+    "display": "6.1\" OLED, 60 Hz",
+    "supportsAppleIntelligence": true,
+    "battery": "3561 mAh",
+    "camera": "48 MP Fusion + 12 MP ultra-wide",
+    "connectivity": "5G · Wi-Fi 7 · USB-C",
+    "launchOS": "iOS 18",
+    "latestSupportedOS": "iOS 26"
+  },
+  {
+    "identifier": "iPhone17,4",
+    "marketingName": "iPhone 16 Plus",
+    "releaseYear": 2024,
+    "chip": "A18",
+    "ram": "8 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB"
+    ],
+    "display": "6.7\" OLED, 60 Hz",
+    "supportsAppleIntelligence": true,
+    "battery": "4674 mAh",
+    "camera": "48 MP Fusion + 12 MP ultra-wide",
+    "connectivity": "5G · Wi-Fi 7 · USB-C",
+    "launchOS": "iOS 18",
+    "latestSupportedOS": "iOS 26"
+  },
+  {
+    "identifier": "iPhone17,1",
+    "marketingName": "iPhone 16 Pro",
+    "releaseYear": 2024,
+    "chip": "A18 Pro",
+    "ram": "8 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB",
+      "1 TB"
+    ],
+    "display": "6.3\" LTPO OLED, 120 Hz",
+    "supportsAppleIntelligence": true,
+    "battery": "3582 mAh",
+    "camera": "48 MP Fusion + 48 MP ultra-wide + 5x tele",
+    "connectivity": "5G · Wi-Fi 7 · USB-C 3",
+    "launchOS": "iOS 18",
+    "latestSupportedOS": "iOS 26"
+  },
+  {
+    "identifier": "iPhone17,2",
+    "marketingName": "iPhone 16 Pro Max",
+    "releaseYear": 2024,
+    "chip": "A18 Pro",
+    "ram": "8 GB",
+    "storageOptions": [
+      "256 GB",
+      "512 GB",
+      "1 TB"
+    ],
+    "display": "6.9\" LTPO OLED, 120 Hz",
+    "supportsAppleIntelligence": true,
+    "battery": "4685 mAh",
+    "camera": "48 MP Fusion + 48 MP ultra-wide + 5x tele",
+    "connectivity": "5G · Wi-Fi 7 · USB-C 3",
+    "launchOS": "iOS 18",
+    "latestSupportedOS": "iOS 26"
+  },
+  {
+    "identifier": "iPhone17,5",
+    "marketingName": "iPhone 16e",
+    "releaseYear": 2025,
+    "chip": "A18",
+    "ram": "8 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB"
+    ],
+    "display": "6.1\" OLED, 60 Hz",
+    "supportsAppleIntelligence": true,
+    "battery": "4005 mAh",
+    "camera": "48 MP Fusion",
+    "connectivity": "5G · Wi-Fi 6 · USB-C",
+    "launchOS": "iOS 18",
+    "latestSupportedOS": "iOS 26"
+  },
+  {
+    "identifier": "iPhone18,3",
+    "marketingName": "iPhone 17",
+    "releaseYear": 2025,
+    "supportsAppleIntelligence": true,
+    "chip": "A19",
+    "ram": "8 GB",
+    "display": "6.3\" OLED, 120 Hz",
+    "storageOptions": [
+      "256 GB",
+      "512 GB"
+    ],
+    "battery": "3692 mAh",
+    "camera": "48 MP Fusion + 48 MP ultra-wide",
+    "connectivity": "5G · Wi-Fi 7 · USB-C",
+    "launchOS": "iOS 26",
+    "latestSupportedOS": "iOS 26"
+  },
+  {
+    "identifier": "iPhone18,1",
+    "marketingName": "iPhone 17 Pro",
+    "releaseYear": 2025,
+    "supportsAppleIntelligence": true,
+    "chip": "A19 Pro",
+    "ram": "12 GB",
+    "display": "6.3\" OLED, 120 Hz",
+    "storageOptions": [
+      "256 GB",
+      "512 GB",
+      "1 TB",
+      "2 TB"
+    ],
+    "battery": "4252 mAh",
+    "camera": "48 MP Fusion + ultra-wide + tele",
+    "connectivity": "5G · Wi-Fi 7 · USB-C 3",
+    "launchOS": "iOS 26",
+    "latestSupportedOS": "iOS 26"
+  },
+  {
+    "identifier": "iPhone18,2",
+    "marketingName": "iPhone 17 Pro Max",
+    "releaseYear": 2025,
+    "supportsAppleIntelligence": true,
+    "chip": "A19 Pro",
+    "ram": "12 GB",
+    "display": "6.9\" OLED, 120 Hz",
+    "storageOptions": [
+      "256 GB",
+      "512 GB",
+      "1 TB",
+      "2 TB"
+    ],
+    "battery": "5088 mAh",
+    "camera": "48 MP Fusion + ultra-wide + tele",
+    "connectivity": "5G · Wi-Fi 7 · USB-C 3",
+    "launchOS": "iOS 26",
+    "latestSupportedOS": "iOS 26"
+  },
+  {
+    "identifier": "iPhone18,4",
+    "marketingName": "iPhone Air",
+    "releaseYear": 2025,
+    "supportsAppleIntelligence": true,
+    "chip": "A19 Pro",
+    "ram": "12 GB",
+    "display": "6.5\" OLED, 120 Hz",
+    "storageOptions": [
+      "256 GB",
+      "512 GB",
+      "1 TB"
+    ],
+    "battery": "3149 mAh",
+    "camera": "48 MP Fusion",
+    "connectivity": "5G · Wi-Fi 7 · USB-C",
+    "launchOS": "iOS 26",
+    "latestSupportedOS": "iOS 26"
+  },
+  {
+    "identifier": "iPhone18,5",
+    "marketingName": "iPhone 17e",
+    "releaseYear": 2025,
+    "supportsAppleIntelligence": true,
+    "chip": "A19",
+    "ram": "8 GB",
+    "display": "6.1\" OLED, 60 Hz",
+    "storageOptions": [
+      "128 GB",
+      "256 GB"
+    ],
+    "battery": "4005 mAh",
+    "camera": "48 MP Fusion",
+    "connectivity": "5G · Wi-Fi 6 · USB-C",
+    "launchOS": "iOS 26",
+    "latestSupportedOS": "iOS 26"
+  },
+  {
+    "identifier": "iPad13,16",
+    "marketingName": "iPad Air (5th generation)",
+    "releaseYear": 2022,
+    "supportsAppleIntelligence": true,
+    "chip": "Apple M1",
+    "ram": "8 GB",
+    "storageOptions": [
+      "64 GB",
+      "256 GB"
+    ],
+    "display": "10.9\" LCD, 60 Hz",
+    "launchOS": "iPadOS 15.4",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil (2nd generation)",
+      "Apple Pencil (USB-C)",
+      "Magic Keyboard",
+      "Smart Keyboard Folio"
+    ]
+  },
+  {
+    "identifier": "iPad13,17",
+    "marketingName": "iPad Air (5th generation)",
+    "releaseYear": 2022,
+    "supportsAppleIntelligence": true,
+    "chip": "Apple M1",
+    "ram": "8 GB",
+    "storageOptions": [
+      "64 GB",
+      "256 GB"
+    ],
+    "display": "10.9\" LCD, 60 Hz",
+    "launchOS": "iPadOS 15.4",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil (2nd generation)",
+      "Apple Pencil (USB-C)",
+      "Magic Keyboard",
+      "Smart Keyboard Folio"
+    ]
+  },
+  {
+    "identifier": "iPad14,1",
+    "marketingName": "iPad mini (6th generation)",
+    "releaseYear": 2021,
+    "supportsAppleIntelligence": false,
+    "chip": "A15 Bionic",
+    "ram": "4 GB",
+    "storageOptions": [
+      "64 GB",
+      "256 GB"
+    ],
+    "display": "8.3\" LCD, 60 Hz",
+    "launchOS": "iPadOS 15",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil (2nd generation)",
+      "Apple Pencil (USB-C)"
+    ]
+  },
+  {
+    "identifier": "iPad14,2",
+    "marketingName": "iPad mini (6th generation)",
+    "releaseYear": 2021,
+    "supportsAppleIntelligence": false,
+    "chip": "A15 Bionic",
+    "ram": "4 GB",
+    "storageOptions": [
+      "64 GB",
+      "256 GB"
+    ],
+    "display": "8.3\" LCD, 60 Hz",
+    "launchOS": "iPadOS 15",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil (2nd generation)",
+      "Apple Pencil (USB-C)"
+    ]
+  },
+  {
+    "identifier": "iPad13,18",
+    "marketingName": "iPad (10th generation)",
+    "releaseYear": 2022,
+    "supportsAppleIntelligence": false,
+    "chip": "A14 Bionic",
+    "ram": "4 GB",
+    "storageOptions": [
+      "64 GB",
+      "256 GB"
+    ],
+    "display": "10.9\" LCD, 60 Hz",
+    "launchOS": "iPadOS 16",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil (1st generation)",
+      "Apple Pencil (USB-C)",
+      "Magic Keyboard Folio"
+    ]
+  },
+  {
+    "identifier": "iPad13,19",
+    "marketingName": "iPad (10th generation)",
+    "releaseYear": 2022,
+    "supportsAppleIntelligence": false,
+    "chip": "A14 Bionic",
+    "ram": "4 GB",
+    "storageOptions": [
+      "64 GB",
+      "256 GB"
+    ],
+    "display": "10.9\" LCD, 60 Hz",
+    "launchOS": "iPadOS 16",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil (1st generation)",
+      "Apple Pencil (USB-C)",
+      "Magic Keyboard Folio"
+    ]
+  },
+  {
+    "identifier": "iPad14,3",
+    "marketingName": "iPad Pro 11-inch (4th generation)",
+    "releaseYear": 2022,
+    "supportsAppleIntelligence": true,
+    "chip": "Apple M2",
+    "ram": "8 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB",
+      "1 TB",
+      "2 TB"
+    ],
+    "display": "11\" LCD, 120 Hz",
+    "launchOS": "iPadOS 16",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil (2nd generation)",
+      "Apple Pencil (USB-C)",
+      "Magic Keyboard",
+      "Smart Keyboard Folio"
+    ]
+  },
+  {
+    "identifier": "iPad14,4",
+    "marketingName": "iPad Pro 11-inch (4th generation)",
+    "releaseYear": 2022,
+    "supportsAppleIntelligence": true,
+    "chip": "Apple M2",
+    "ram": "8 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB",
+      "1 TB",
+      "2 TB"
+    ],
+    "display": "11\" LCD, 120 Hz",
+    "launchOS": "iPadOS 16",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil (2nd generation)",
+      "Apple Pencil (USB-C)",
+      "Magic Keyboard",
+      "Smart Keyboard Folio"
+    ]
+  },
+  {
+    "identifier": "iPad14,5",
+    "marketingName": "iPad Pro 12.9-inch (6th generation)",
+    "releaseYear": 2022,
+    "supportsAppleIntelligence": true,
+    "chip": "Apple M2",
+    "ram": "8 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB",
+      "1 TB",
+      "2 TB"
+    ],
+    "display": "12.9\" mini-LED, 120 Hz",
+    "launchOS": "iPadOS 16",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil (2nd generation)",
+      "Apple Pencil (USB-C)",
+      "Magic Keyboard",
+      "Smart Keyboard Folio"
+    ]
+  },
+  {
+    "identifier": "iPad14,6",
+    "marketingName": "iPad Pro 12.9-inch (6th generation)",
+    "releaseYear": 2022,
+    "supportsAppleIntelligence": true,
+    "chip": "Apple M2",
+    "ram": "8 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB",
+      "1 TB",
+      "2 TB"
+    ],
+    "display": "12.9\" mini-LED, 120 Hz",
+    "launchOS": "iPadOS 16",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil (2nd generation)",
+      "Apple Pencil (USB-C)",
+      "Magic Keyboard",
+      "Smart Keyboard Folio"
+    ]
+  },
+  {
+    "identifier": "iPad14,8",
+    "marketingName": "iPad Air 11-inch (M2)",
+    "releaseYear": 2024,
+    "supportsAppleIntelligence": true,
+    "chip": "Apple M2",
+    "ram": "8 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB",
+      "1 TB"
+    ],
+    "display": "11\" LCD, 60 Hz",
+    "launchOS": "iPadOS 17.5",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil Pro",
+      "Apple Pencil (USB-C)",
+      "Magic Keyboard"
+    ]
+  },
+  {
+    "identifier": "iPad14,9",
+    "marketingName": "iPad Air 11-inch (M2)",
+    "releaseYear": 2024,
+    "supportsAppleIntelligence": true,
+    "chip": "Apple M2",
+    "ram": "8 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB",
+      "1 TB"
+    ],
+    "display": "11\" LCD, 60 Hz",
+    "launchOS": "iPadOS 17.5",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil Pro",
+      "Apple Pencil (USB-C)",
+      "Magic Keyboard"
+    ]
+  },
+  {
+    "identifier": "iPad14,10",
+    "marketingName": "iPad Air 13-inch (M2)",
+    "releaseYear": 2024,
+    "supportsAppleIntelligence": true,
+    "chip": "Apple M2",
+    "ram": "8 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB",
+      "1 TB"
+    ],
+    "display": "13\" LCD, 60 Hz",
+    "launchOS": "iPadOS 17.5",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil Pro",
+      "Apple Pencil (USB-C)",
+      "Magic Keyboard"
+    ]
+  },
+  {
+    "identifier": "iPad14,11",
+    "marketingName": "iPad Air 13-inch (M2)",
+    "releaseYear": 2024,
+    "supportsAppleIntelligence": true,
+    "chip": "Apple M2",
+    "ram": "8 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB",
+      "1 TB"
+    ],
+    "display": "13\" LCD, 60 Hz",
+    "launchOS": "iPadOS 17.5",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil Pro",
+      "Apple Pencil (USB-C)",
+      "Magic Keyboard"
+    ]
+  },
+  {
+    "identifier": "iPad15,3",
+    "marketingName": "iPad Air 11-inch (M3)",
+    "releaseYear": 2025,
+    "supportsAppleIntelligence": true,
+    "chip": "Apple M3",
+    "ram": "8 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB",
+      "1 TB"
+    ],
+    "display": "11\" LCD, 60 Hz",
+    "launchOS": "iPadOS 18",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil Pro",
+      "Apple Pencil (USB-C)",
+      "Magic Keyboard for iPad Air (M3)"
+    ]
+  },
+  {
+    "identifier": "iPad15,4",
+    "marketingName": "iPad Air 11-inch (M3)",
+    "releaseYear": 2025,
+    "supportsAppleIntelligence": true,
+    "chip": "Apple M3",
+    "ram": "8 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB",
+      "1 TB"
+    ],
+    "display": "11\" LCD, 60 Hz",
+    "launchOS": "iPadOS 18",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil Pro",
+      "Apple Pencil (USB-C)",
+      "Magic Keyboard for iPad Air (M3)"
+    ]
+  },
+  {
+    "identifier": "iPad15,5",
+    "marketingName": "iPad Air 13-inch (M3)",
+    "releaseYear": 2025,
+    "supportsAppleIntelligence": true,
+    "chip": "Apple M3",
+    "ram": "8 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB",
+      "1 TB"
+    ],
+    "display": "13\" LCD, 60 Hz",
+    "launchOS": "iPadOS 18",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil Pro",
+      "Apple Pencil (USB-C)",
+      "Magic Keyboard for iPad Air (M3)"
+    ]
+  },
+  {
+    "identifier": "iPad15,6",
+    "marketingName": "iPad Air 13-inch (M3)",
+    "releaseYear": 2025,
+    "supportsAppleIntelligence": true,
+    "chip": "Apple M3",
+    "ram": "8 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB",
+      "1 TB"
+    ],
+    "display": "13\" LCD, 60 Hz",
+    "launchOS": "iPadOS 18",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil Pro",
+      "Apple Pencil (USB-C)",
+      "Magic Keyboard for iPad Air (M3)"
+    ]
+  },
+  {
+    "identifier": "iPad15,7",
+    "marketingName": "iPad (A16)",
+    "releaseYear": 2025,
+    "supportsAppleIntelligence": false,
+    "chip": "A16 Bionic",
+    "ram": "6 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB"
+    ],
+    "display": "11\" LCD, 60 Hz",
+    "launchOS": "iPadOS 18",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil (1st generation)",
+      "Apple Pencil (USB-C)",
+      "Magic Keyboard Folio"
+    ]
+  },
+  {
+    "identifier": "iPad15,8",
+    "marketingName": "iPad (A16)",
+    "releaseYear": 2025,
+    "supportsAppleIntelligence": false,
+    "chip": "A16 Bionic",
+    "ram": "6 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB"
+    ],
+    "display": "11\" LCD, 60 Hz",
+    "launchOS": "iPadOS 18",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil (1st generation)",
+      "Apple Pencil (USB-C)",
+      "Magic Keyboard Folio"
+    ]
+  },
+  {
+    "identifier": "iPad16,1",
+    "marketingName": "iPad mini (A17 Pro)",
+    "releaseYear": 2024,
+    "supportsAppleIntelligence": true,
+    "chip": "A17 Pro",
+    "ram": "8 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB"
+    ],
+    "display": "8.3\" LCD, 60 Hz",
+    "launchOS": "iPadOS 18",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil Pro",
+      "Apple Pencil (USB-C)"
+    ]
+  },
+  {
+    "identifier": "iPad16,2",
+    "marketingName": "iPad mini (A17 Pro)",
+    "releaseYear": 2024,
+    "supportsAppleIntelligence": true,
+    "chip": "A17 Pro",
+    "ram": "8 GB",
+    "storageOptions": [
+      "128 GB",
+      "256 GB",
+      "512 GB"
+    ],
+    "display": "8.3\" LCD, 60 Hz",
+    "launchOS": "iPadOS 18",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil Pro",
+      "Apple Pencil (USB-C)"
+    ]
+  },
+  {
+    "identifier": "iPad16,3",
+    "marketingName": "iPad Pro 11-inch (M4)",
+    "releaseYear": 2024,
+    "supportsAppleIntelligence": true,
+    "chip": "Apple M4",
+    "ram": "8 GB / 16 GB",
+    "storageOptions": [
+      "256 GB",
+      "512 GB",
+      "1 TB",
+      "2 TB"
+    ],
+    "display": "11\" Tandem OLED, 120 Hz",
+    "launchOS": "iPadOS 17.4",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil Pro",
+      "Apple Pencil (USB-C)",
+      "Magic Keyboard for iPad Pro (M4)"
+    ]
+  },
+  {
+    "identifier": "iPad16,4",
+    "marketingName": "iPad Pro 11-inch (M4)",
+    "releaseYear": 2024,
+    "supportsAppleIntelligence": true,
+    "chip": "Apple M4",
+    "ram": "8 GB / 16 GB",
+    "storageOptions": [
+      "256 GB",
+      "512 GB",
+      "1 TB",
+      "2 TB"
+    ],
+    "display": "11\" Tandem OLED, 120 Hz",
+    "launchOS": "iPadOS 17.4",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil Pro",
+      "Apple Pencil (USB-C)",
+      "Magic Keyboard for iPad Pro (M4)"
+    ]
+  },
+  {
+    "identifier": "iPad16,5",
+    "marketingName": "iPad Pro 13-inch (M4)",
+    "releaseYear": 2024,
+    "supportsAppleIntelligence": true,
+    "chip": "Apple M4",
+    "ram": "8 GB / 16 GB",
+    "storageOptions": [
+      "256 GB",
+      "512 GB",
+      "1 TB",
+      "2 TB"
+    ],
+    "display": "13\" Tandem OLED, 120 Hz",
+    "launchOS": "iPadOS 17.4",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil Pro",
+      "Apple Pencil (USB-C)",
+      "Magic Keyboard for iPad Pro (M4)"
+    ]
+  },
+  {
+    "identifier": "iPad16,6",
+    "marketingName": "iPad Pro 13-inch (M4)",
+    "releaseYear": 2024,
+    "supportsAppleIntelligence": true,
+    "chip": "Apple M4",
+    "ram": "8 GB / 16 GB",
+    "storageOptions": [
+      "256 GB",
+      "512 GB",
+      "1 TB",
+      "2 TB"
+    ],
+    "display": "13\" Tandem OLED, 120 Hz",
+    "launchOS": "iPadOS 17.4",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil Pro",
+      "Apple Pencil (USB-C)",
+      "Magic Keyboard for iPad Pro (M4)"
+    ]
+  },
+  {
+    "identifier": "iPad16,8",
+    "marketingName": "iPad Air 11-inch (M4)",
+    "releaseYear": 2025,
+    "supportsAppleIntelligence": true,
+    "chip": "Apple M4",
+    "display": "11\" LCD, 60 Hz",
+    "launchOS": "iPadOS 26",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil Pro",
+      "Apple Pencil (USB-C)",
+      "Magic Keyboard for iPad Air (M3)"
+    ]
+  },
+  {
+    "identifier": "iPad16,9",
+    "marketingName": "iPad Air 11-inch (M4)",
+    "releaseYear": 2025,
+    "supportsAppleIntelligence": true,
+    "chip": "Apple M4",
+    "display": "11\" LCD, 60 Hz",
+    "launchOS": "iPadOS 26",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil Pro",
+      "Apple Pencil (USB-C)",
+      "Magic Keyboard for iPad Air (M3)"
+    ]
+  },
+  {
+    "identifier": "iPad16,10",
+    "marketingName": "iPad Air 13-inch (M4)",
+    "releaseYear": 2025,
+    "supportsAppleIntelligence": true,
+    "chip": "Apple M4",
+    "display": "13\" LCD, 60 Hz",
+    "launchOS": "iPadOS 26",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil Pro",
+      "Apple Pencil (USB-C)",
+      "Magic Keyboard for iPad Air (M3)"
+    ]
+  },
+  {
+    "identifier": "iPad16,11",
+    "marketingName": "iPad Air 13-inch (M4)",
+    "releaseYear": 2025,
+    "supportsAppleIntelligence": true,
+    "chip": "Apple M4",
+    "display": "13\" LCD, 60 Hz",
+    "launchOS": "iPadOS 26",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil Pro",
+      "Apple Pencil (USB-C)",
+      "Magic Keyboard for iPad Air (M3)"
+    ]
+  },
+  {
+    "identifier": "iPad17,1",
+    "marketingName": "iPad Pro 11-inch (M5)",
+    "releaseYear": 2025,
+    "supportsAppleIntelligence": true,
+    "chip": "Apple M5",
+    "launchOS": "iPadOS 26",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil Pro",
+      "Apple Pencil (USB-C)",
+      "Magic Keyboard for iPad Pro (M4)"
+    ]
+  },
+  {
+    "identifier": "iPad17,2",
+    "marketingName": "iPad Pro 11-inch (M5)",
+    "releaseYear": 2025,
+    "supportsAppleIntelligence": true,
+    "chip": "Apple M5",
+    "launchOS": "iPadOS 26",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil Pro",
+      "Apple Pencil (USB-C)",
+      "Magic Keyboard for iPad Pro (M4)"
+    ]
+  },
+  {
+    "identifier": "iPad17,3",
+    "marketingName": "iPad Pro 13-inch (M5)",
+    "releaseYear": 2025,
+    "supportsAppleIntelligence": true,
+    "chip": "Apple M5",
+    "launchOS": "iPadOS 26",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil Pro",
+      "Apple Pencil (USB-C)",
+      "Magic Keyboard for iPad Pro (M4)"
+    ]
+  },
+  {
+    "identifier": "iPad17,4",
+    "marketingName": "iPad Pro 13-inch (M5)",
+    "releaseYear": 2025,
+    "supportsAppleIntelligence": true,
+    "chip": "Apple M5",
+    "launchOS": "iPadOS 26",
+    "latestSupportedOS": "iPadOS 26",
+    "accessories": [
+      "Apple Pencil Pro",
+      "Apple Pencil (USB-C)",
+      "Magic Keyboard for iPad Pro (M4)"
+    ]
+  },
+  {
+    "identifier": "iPhone10,1",
+    "marketingName": "iPhone 8",
+    "releaseYear": 2017,
+    "chip": "A11 Bionic",
+    "ram": "2 GB",
+    "storageOptions": [
+      "64 GB",
+      "256 GB"
+    ],
+    "display": "4.7\" LCD, 60 Hz",
+    "battery": "1821 mAh",
+    "camera": "12 MP wide",
+    "connectivity": "4G · Wi-Fi 5 · Lightning",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 11",
+    "latestSupportedOS": "iOS 16"
+  },
+  {
+    "identifier": "iPhone10,4",
+    "marketingName": "iPhone 8",
+    "releaseYear": 2017,
+    "chip": "A11 Bionic",
+    "ram": "2 GB",
+    "storageOptions": [
+      "64 GB",
+      "256 GB"
+    ],
+    "display": "4.7\" LCD, 60 Hz",
+    "battery": "1821 mAh",
+    "camera": "12 MP wide",
+    "connectivity": "4G · Wi-Fi 5 · Lightning",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 11",
+    "latestSupportedOS": "iOS 16"
+  },
+  {
+    "identifier": "iPhone10,2",
+    "marketingName": "iPhone 8 Plus",
+    "releaseYear": 2017,
+    "chip": "A11 Bionic",
+    "ram": "3 GB",
+    "storageOptions": [
+      "64 GB",
+      "256 GB"
+    ],
+    "display": "5.5\" LCD, 60 Hz",
+    "battery": "2691 mAh",
+    "camera": "12 MP wide + tele",
+    "connectivity": "4G · Wi-Fi 5 · Lightning",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 11",
+    "latestSupportedOS": "iOS 16"
+  },
+  {
+    "identifier": "iPhone10,5",
+    "marketingName": "iPhone 8 Plus",
+    "releaseYear": 2017,
+    "chip": "A11 Bionic",
+    "ram": "3 GB",
+    "storageOptions": [
+      "64 GB",
+      "256 GB"
+    ],
+    "display": "5.5\" LCD, 60 Hz",
+    "battery": "2691 mAh",
+    "camera": "12 MP wide + tele",
+    "connectivity": "4G · Wi-Fi 5 · Lightning",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 11",
+    "latestSupportedOS": "iOS 16"
+  },
+  {
+    "identifier": "iPhone10,3",
+    "marketingName": "iPhone X",
+    "releaseYear": 2017,
+    "chip": "A11 Bionic",
+    "ram": "3 GB",
+    "storageOptions": [
+      "64 GB",
+      "256 GB"
+    ],
+    "display": "5.8\" OLED, 60 Hz",
+    "battery": "2716 mAh",
+    "camera": "12 MP wide + tele",
+    "connectivity": "4G · Wi-Fi 5 · Lightning",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 11",
+    "latestSupportedOS": "iOS 16"
+  },
+  {
+    "identifier": "iPhone10,6",
+    "marketingName": "iPhone X",
+    "releaseYear": 2017,
+    "chip": "A11 Bionic",
+    "ram": "3 GB",
+    "storageOptions": [
+      "64 GB",
+      "256 GB"
+    ],
+    "display": "5.8\" OLED, 60 Hz",
+    "battery": "2716 mAh",
+    "camera": "12 MP wide + tele",
+    "connectivity": "4G · Wi-Fi 5 · Lightning",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 11",
+    "latestSupportedOS": "iOS 16"
+  },
+  {
+    "identifier": "iPhone11,2",
+    "marketingName": "iPhone XS",
+    "releaseYear": 2018,
+    "chip": "A12 Bionic",
+    "ram": "4 GB",
+    "storageOptions": [
+      "64 GB",
+      "256 GB",
+      "512 GB"
+    ],
+    "display": "5.8\" OLED, 60 Hz",
+    "battery": "2658 mAh",
+    "camera": "12 MP wide + tele",
+    "connectivity": "4G · Wi-Fi 5 · Lightning",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 12",
+    "latestSupportedOS": "iOS 18"
+  },
+  {
+    "identifier": "iPhone11,4",
+    "marketingName": "iPhone XS Max",
+    "releaseYear": 2018,
+    "chip": "A12 Bionic",
+    "ram": "4 GB",
+    "storageOptions": [
+      "64 GB",
+      "256 GB",
+      "512 GB"
+    ],
+    "display": "6.5\" OLED, 60 Hz",
+    "battery": "3174 mAh",
+    "camera": "12 MP wide + tele",
+    "connectivity": "4G · Wi-Fi 5 · Lightning",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 12",
+    "latestSupportedOS": "iOS 18"
+  },
+  {
+    "identifier": "iPhone11,6",
+    "marketingName": "iPhone XS Max",
+    "releaseYear": 2018,
+    "chip": "A12 Bionic",
+    "ram": "4 GB",
+    "storageOptions": [
+      "64 GB",
+      "256 GB",
+      "512 GB"
+    ],
+    "display": "6.5\" OLED, 60 Hz",
+    "battery": "3174 mAh",
+    "camera": "12 MP wide + tele",
+    "connectivity": "4G · Wi-Fi 5 · Lightning",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 12",
+    "latestSupportedOS": "iOS 18"
+  },
+  {
+    "identifier": "iPhone11,8",
+    "marketingName": "iPhone XR",
+    "releaseYear": 2018,
+    "chip": "A12 Bionic",
+    "ram": "3 GB",
+    "storageOptions": [
+      "64 GB",
+      "128 GB",
+      "256 GB"
+    ],
+    "display": "6.1\" LCD, 60 Hz",
+    "battery": "2942 mAh",
+    "camera": "12 MP wide",
+    "connectivity": "4G · Wi-Fi 5 · Lightning",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 12",
+    "latestSupportedOS": "iOS 18"
+  },
+  {
+    "identifier": "iPhone12,1",
+    "marketingName": "iPhone 11",
+    "releaseYear": 2019,
+    "chip": "A13 Bionic",
+    "ram": "4 GB",
+    "storageOptions": [
+      "64 GB",
+      "128 GB",
+      "256 GB"
+    ],
+    "display": "6.1\" LCD, 60 Hz",
+    "battery": "3110 mAh",
+    "camera": "12 MP wide + ultra-wide",
+    "connectivity": "4G · Wi-Fi 6 · Lightning",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 13",
+    "latestSupportedOS": "iOS 26"
+  },
+  {
+    "identifier": "iPhone12,3",
+    "marketingName": "iPhone 11 Pro",
+    "releaseYear": 2019,
+    "chip": "A13 Bionic",
+    "ram": "4 GB",
+    "storageOptions": [
+      "64 GB",
+      "256 GB",
+      "512 GB"
+    ],
+    "display": "5.8\" OLED, 60 Hz",
+    "battery": "3046 mAh",
+    "camera": "12 MP wide + ultra-wide + tele",
+    "connectivity": "4G · Wi-Fi 6 · Lightning",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 13",
+    "latestSupportedOS": "iOS 26"
+  },
+  {
+    "identifier": "iPhone12,5",
+    "marketingName": "iPhone 11 Pro Max",
+    "releaseYear": 2019,
+    "chip": "A13 Bionic",
+    "ram": "4 GB",
+    "storageOptions": [
+      "64 GB",
+      "256 GB",
+      "512 GB"
+    ],
+    "display": "6.5\" OLED, 60 Hz",
+    "battery": "3969 mAh",
+    "camera": "12 MP wide + ultra-wide + tele",
+    "connectivity": "4G · Wi-Fi 6 · Lightning",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 13",
+    "latestSupportedOS": "iOS 26"
+  },
+  {
+    "identifier": "iPhone12,8",
+    "marketingName": "iPhone SE (2nd generation)",
+    "releaseYear": 2020,
+    "chip": "A13 Bionic",
+    "ram": "3 GB",
+    "storageOptions": [
+      "64 GB",
+      "128 GB",
+      "256 GB"
+    ],
+    "display": "4.7\" LCD, 60 Hz",
+    "battery": "1821 mAh",
+    "camera": "12 MP wide",
+    "connectivity": "4G · Wi-Fi 6 · Lightning",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 13.4",
+    "latestSupportedOS": "iOS 26"
+  },
+  {
+    "identifier": "iPhone9,1",
+    "marketingName": "iPhone 7",
+    "releaseYear": 2016,
+    "chip": "A10 Fusion",
+    "ram": "2 GB",
+    "storageOptions": [
+      "32 GB",
+      "128 GB",
+      "256 GB"
+    ],
+    "display": "4.7\" LCD, 60 Hz",
+    "battery": "1960 mAh",
+    "camera": "12 MP wide",
+    "connectivity": "4G · Wi-Fi 5 · Lightning",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 10",
+    "latestSupportedOS": "iOS 15"
+  },
+  {
+    "identifier": "iPhone9,3",
+    "marketingName": "iPhone 7",
+    "releaseYear": 2016,
+    "chip": "A10 Fusion",
+    "ram": "2 GB",
+    "storageOptions": [
+      "32 GB",
+      "128 GB",
+      "256 GB"
+    ],
+    "display": "4.7\" LCD, 60 Hz",
+    "battery": "1960 mAh",
+    "camera": "12 MP wide",
+    "connectivity": "4G · Wi-Fi 5 · Lightning",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 10",
+    "latestSupportedOS": "iOS 15"
+  },
+  {
+    "identifier": "iPhone9,2",
+    "marketingName": "iPhone 7 Plus",
+    "releaseYear": 2016,
+    "chip": "A10 Fusion",
+    "ram": "3 GB",
+    "storageOptions": [
+      "32 GB",
+      "128 GB",
+      "256 GB"
+    ],
+    "display": "5.5\" LCD, 60 Hz",
+    "battery": "2900 mAh",
+    "camera": "12 MP wide + tele",
+    "connectivity": "4G · Wi-Fi 5 · Lightning",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 10",
+    "latestSupportedOS": "iOS 15"
+  },
+  {
+    "identifier": "iPhone9,4",
+    "marketingName": "iPhone 7 Plus",
+    "releaseYear": 2016,
+    "chip": "A10 Fusion",
+    "ram": "3 GB",
+    "storageOptions": [
+      "32 GB",
+      "128 GB",
+      "256 GB"
+    ],
+    "display": "5.5\" LCD, 60 Hz",
+    "battery": "2900 mAh",
+    "camera": "12 MP wide + tele",
+    "connectivity": "4G · Wi-Fi 5 · Lightning",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 10",
+    "latestSupportedOS": "iOS 15"
+  },
+  {
+    "identifier": "iPhone8,1",
+    "marketingName": "iPhone 6s",
+    "releaseYear": 2015,
+    "chip": "A9",
+    "ram": "2 GB",
+    "storageOptions": [
+      "16 GB",
+      "32 GB",
+      "64 GB",
+      "128 GB"
+    ],
+    "display": "4.7\" LCD, 60 Hz",
+    "battery": "1715 mAh",
+    "camera": "12 MP wide",
+    "connectivity": "4G · Wi-Fi 5 · Lightning",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 9",
+    "latestSupportedOS": "iOS 15"
+  },
+  {
+    "identifier": "iPhone8,2",
+    "marketingName": "iPhone 6s Plus",
+    "releaseYear": 2015,
+    "chip": "A9",
+    "ram": "2 GB",
+    "storageOptions": [
+      "16 GB",
+      "32 GB",
+      "64 GB",
+      "128 GB"
+    ],
+    "display": "5.5\" LCD, 60 Hz",
+    "battery": "2750 mAh",
+    "camera": "12 MP wide + OIS",
+    "connectivity": "4G · Wi-Fi 5 · Lightning",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 9",
+    "latestSupportedOS": "iOS 15"
+  },
+  {
+    "identifier": "iPhone8,4",
+    "marketingName": "iPhone SE (1st generation)",
+    "releaseYear": 2016,
+    "chip": "A9",
+    "ram": "2 GB",
+    "storageOptions": [
+      "16 GB",
+      "32 GB",
+      "64 GB",
+      "128 GB"
+    ],
+    "display": "4.0\" LCD, 60 Hz",
+    "battery": "1624 mAh",
+    "camera": "12 MP wide",
+    "connectivity": "4G · Wi-Fi 5 · Lightning",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 9.3",
+    "latestSupportedOS": "iOS 15"
+  },
+  {
+    "identifier": "iPhone7,2",
+    "marketingName": "iPhone 6",
+    "releaseYear": 2014,
+    "chip": "A8",
+    "ram": "1 GB",
+    "storageOptions": [
+      "16 GB",
+      "32 GB",
+      "64 GB",
+      "128 GB"
+    ],
+    "display": "4.7\" LCD, 60 Hz",
+    "battery": "1810 mAh",
+    "camera": "8 MP wide",
+    "connectivity": "4G · Wi-Fi 5 · Lightning",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 8",
+    "latestSupportedOS": "iOS 12.5.7"
+  },
+  {
+    "identifier": "iPhone7,1",
+    "marketingName": "iPhone 6 Plus",
+    "releaseYear": 2014,
+    "chip": "A8",
+    "ram": "1 GB",
+    "storageOptions": [
+      "16 GB",
+      "64 GB",
+      "128 GB"
+    ],
+    "display": "5.5\" LCD, 60 Hz",
+    "battery": "2915 mAh",
+    "camera": "8 MP wide + OIS",
+    "connectivity": "4G · Wi-Fi 5 · Lightning",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 8",
+    "latestSupportedOS": "iOS 12.5.7"
+  },
+  {
+    "identifier": "iPhone6,1",
+    "marketingName": "iPhone 5s",
+    "releaseYear": 2013,
+    "chip": "A7",
+    "ram": "1 GB",
+    "storageOptions": [
+      "16 GB",
+      "32 GB",
+      "64 GB"
+    ],
+    "display": "4.0\" LCD, 60 Hz",
+    "battery": "1560 mAh",
+    "camera": "8 MP wide",
+    "connectivity": "4G · Wi-Fi 4 · Lightning",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 7",
+    "latestSupportedOS": "iOS 12.5.7"
+  },
+  {
+    "identifier": "iPhone6,2",
+    "marketingName": "iPhone 5s",
+    "releaseYear": 2013,
+    "chip": "A7",
+    "ram": "1 GB",
+    "storageOptions": [
+      "16 GB",
+      "32 GB",
+      "64 GB"
+    ],
+    "display": "4.0\" LCD, 60 Hz",
+    "battery": "1560 mAh",
+    "camera": "8 MP wide",
+    "connectivity": "4G · Wi-Fi 4 · Lightning",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 7",
+    "latestSupportedOS": "iOS 12.5.7"
+  },
+  {
+    "identifier": "iPhone5,3",
+    "marketingName": "iPhone 5c",
+    "releaseYear": 2013,
+    "chip": "A6",
+    "ram": "1 GB",
+    "storageOptions": [
+      "8 GB",
+      "16 GB",
+      "32 GB"
+    ],
+    "display": "4.0\" LCD, 60 Hz",
+    "battery": "1510 mAh",
+    "camera": "8 MP wide",
+    "connectivity": "4G · Wi-Fi 4 · Lightning",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 7",
+    "latestSupportedOS": "iOS 10.3.3"
+  },
+  {
+    "identifier": "iPhone5,4",
+    "marketingName": "iPhone 5c",
+    "releaseYear": 2013,
+    "chip": "A6",
+    "ram": "1 GB",
+    "storageOptions": [
+      "8 GB",
+      "16 GB",
+      "32 GB"
+    ],
+    "display": "4.0\" LCD, 60 Hz",
+    "battery": "1510 mAh",
+    "camera": "8 MP wide",
+    "connectivity": "4G · Wi-Fi 4 · Lightning",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 7",
+    "latestSupportedOS": "iOS 10.3.3"
+  },
+  {
+    "identifier": "iPhone5,1",
+    "marketingName": "iPhone 5",
+    "releaseYear": 2012,
+    "chip": "A6",
+    "ram": "1 GB",
+    "storageOptions": [
+      "16 GB",
+      "32 GB",
+      "64 GB"
+    ],
+    "display": "4.0\" LCD, 60 Hz",
+    "battery": "1440 mAh",
+    "camera": "8 MP wide",
+    "connectivity": "4G · Wi-Fi 4 · Lightning",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 6",
+    "latestSupportedOS": "iOS 10.3.4"
+  },
+  {
+    "identifier": "iPhone5,2",
+    "marketingName": "iPhone 5",
+    "releaseYear": 2012,
+    "chip": "A6",
+    "ram": "1 GB",
+    "storageOptions": [
+      "16 GB",
+      "32 GB",
+      "64 GB"
+    ],
+    "display": "4.0\" LCD, 60 Hz",
+    "battery": "1440 mAh",
+    "camera": "8 MP wide",
+    "connectivity": "4G · Wi-Fi 4 · Lightning",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 6",
+    "latestSupportedOS": "iOS 10.3.4"
+  },
+  {
+    "identifier": "iPhone4,1",
+    "marketingName": "iPhone 4s",
+    "releaseYear": 2011,
+    "chip": "A5",
+    "ram": "512 MB",
+    "storageOptions": [
+      "8 GB",
+      "16 GB",
+      "32 GB",
+      "64 GB"
+    ],
+    "display": "3.5\" LCD, 60 Hz",
+    "battery": "1432 mAh",
+    "camera": "8 MP wide",
+    "connectivity": "3G · Wi-Fi 4 · 30-pin",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 5",
+    "latestSupportedOS": "iOS 9.3.6"
+  },
+  {
+    "identifier": "iPhone3,1",
+    "marketingName": "iPhone 4",
+    "releaseYear": 2010,
+    "chip": "Apple A4",
+    "ram": "512 MB",
+    "storageOptions": [
+      "8 GB",
+      "16 GB",
+      "32 GB"
+    ],
+    "display": "3.5\" LCD, 60 Hz",
+    "battery": "1420 mAh",
+    "camera": "5 MP",
+    "connectivity": "3G · Wi-Fi 4 · 30-pin",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 4",
+    "latestSupportedOS": "iOS 7.1.2"
+  },
+  {
+    "identifier": "iPhone3,2",
+    "marketingName": "iPhone 4",
+    "releaseYear": 2010,
+    "chip": "Apple A4",
+    "ram": "512 MB",
+    "storageOptions": [
+      "8 GB",
+      "16 GB",
+      "32 GB"
+    ],
+    "display": "3.5\" LCD, 60 Hz",
+    "battery": "1420 mAh",
+    "camera": "5 MP",
+    "connectivity": "3G · Wi-Fi 4 · 30-pin",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 4",
+    "latestSupportedOS": "iOS 7.1.2"
+  },
+  {
+    "identifier": "iPhone3,3",
+    "marketingName": "iPhone 4",
+    "releaseYear": 2010,
+    "chip": "Apple A4",
+    "ram": "512 MB",
+    "storageOptions": [
+      "8 GB",
+      "16 GB",
+      "32 GB"
+    ],
+    "display": "3.5\" LCD, 60 Hz",
+    "battery": "1420 mAh",
+    "camera": "5 MP",
+    "connectivity": "3G · Wi-Fi 4 · 30-pin",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iOS 4",
+    "latestSupportedOS": "iOS 7.1.2"
+  },
+  {
+    "identifier": "iPhone2,1",
+    "marketingName": "iPhone 3GS",
+    "releaseYear": 2009,
+    "chip": "Samsung S5L8920",
+    "ram": "256 MB",
+    "storageOptions": [
+      "8 GB",
+      "16 GB",
+      "32 GB"
+    ],
+    "display": "3.5\" LCD, 60 Hz",
+    "battery": "1219 mAh",
+    "camera": "3 MP",
+    "connectivity": "3G · Wi-Fi 4 · 30-pin",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iPhone OS 3",
+    "latestSupportedOS": "iOS 6.1.6"
+  },
+  {
+    "identifier": "iPhone1,2",
+    "marketingName": "iPhone 3G",
+    "releaseYear": 2008,
+    "chip": "Samsung S5L8900",
+    "ram": "128 MB",
+    "storageOptions": [
+      "8 GB",
+      "16 GB"
+    ],
+    "display": "3.5\" LCD, 60 Hz",
+    "battery": "1150 mAh",
+    "camera": "2 MP",
+    "connectivity": "3G · Wi-Fi 4 · 30-pin",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iPhone OS 2",
+    "latestSupportedOS": "iOS 4.2.1"
+  },
+  {
+    "identifier": "iPhone1,1",
+    "marketingName": "iPhone (original)",
+    "releaseYear": 2007,
+    "chip": "Samsung S5L8900",
+    "ram": "128 MB",
+    "storageOptions": [
+      "4 GB",
+      "8 GB",
+      "16 GB"
+    ],
+    "display": "3.5\" LCD, 60 Hz",
+    "battery": "1400 mAh",
+    "camera": "2 MP",
+    "connectivity": "2G · Wi-Fi 4 · 30-pin",
+    "supportsAppleIntelligence": false,
+    "launchOS": "iPhone OS 1",
+    "latestSupportedOS": "iPhone OS 3.1.3"
+  }
+]
