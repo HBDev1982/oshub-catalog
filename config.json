@@ -1,0 +1,10 @@
+{
+  "defaults": {
+    "heartbeatEnabled": true
+  },
+  "shops": {
+    "pacoDeArcos": {},
+    "lisboa": {},
+    "lagoa": {}
+  }
+}
