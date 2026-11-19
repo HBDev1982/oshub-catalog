@@ -1,8 +1,8 @@
 {
   "beta": {
-    "version": "7.0.8",
-    "build": 29,
-    "url": "https://github.com/HBDev1982/oshub-catalog/releases/download/v7.0.8/OSHub-7.0.8.dmg",
-    "notes": "Atualizações por loja e por máquina; as Definições mostram o estado do assistente de atualizações e o resultado real da procura."
+    "version": "7.0.9",
+    "build": 30,
+    "url": "https://github.com/HBDev1982/oshub-catalog/releases/download/v7.0.9/OSHub-7.0.9.dmg",
+    "notes": "Ao instalar uma atualização, o OSHub fecha sozinho e a nova versão abre sozinha."
   }
 }
