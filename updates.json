@@ -1,8 +1,8 @@
 {
   "beta": {
-    "version": "7.0.6",
-    "build": 27,
-    "url": "https://github.com/HBDev1982/oshub-catalog/releases/download/v7.0.6/OSHub-7.0.6.dmg",
-    "notes": "Instala o assistente de atualizações: as próximas versões instalam-se dentro da app, sem DMG nem avisos."
+    "version": "7.0.7",
+    "build": 28,
+    "url": "https://github.com/HBDev1982/oshub-catalog/releases/download/v7.0.7/OSHub-7.0.7.dmg",
+    "notes": "Procura atualizações todos os dias a uma hora fixa (09:00) e avisa com uma notificação."
   }
 }
