@@ -1,8 +1,8 @@
 {
   "beta": {
-    "version": "7.0.7",
-    "build": 28,
-    "url": "https://github.com/HBDev1982/oshub-catalog/releases/download/v7.0.7/OSHub-7.0.7.dmg",
-    "notes": "Procura atualizações todos os dias a uma hora fixa (09:00) e avisa com uma notificação."
+    "version": "7.0.8",
+    "build": 29,
+    "url": "https://github.com/HBDev1982/oshub-catalog/releases/download/v7.0.8/OSHub-7.0.8.dmg",
+    "notes": "Atualizações por loja e por máquina; as Definições mostram o estado do assistente de atualizações e o resultado real da procura."
   }
 }
