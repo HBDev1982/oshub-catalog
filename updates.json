@@ -1,8 +1,8 @@
 {
   "beta": {
-    "version": "7.0.3",
-    "build": 24,
-    "url": "https://github.com/HBDev1982/oshub-catalog/releases/download/v7.0.3/OSHub-7.0.3.dmg",
-    "notes": "A Biblioteca e o indicador de espaço passam a mostrar o tamanho real dos ficheiros."
+    "version": "7.0.4",
+    "build": 25,
+    "url": "https://github.com/HBDev1982/oshub-catalog/releases/download/v7.0.4/OSHub-7.0.4.dmg",
+    "notes": "O aviso de atualização já não estraga a janela e as Definições mostram o resultado da procura."
   }
 }
