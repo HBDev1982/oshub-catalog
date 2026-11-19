@@ -1,8 +1,8 @@
 {
   "beta": {
-    "version": "7.0.2",
-    "build": 23,
-    "url": "https://github.com/HBDev1982/oshub-catalog/releases/download/v7.0.2/OSHub-7.0.2.dmg",
-    "notes": "Corrige a instalação: o download passa a ser feito pelo navegador e o instalador fecha o OSHub sozinho."
+    "version": "7.0.3",
+    "build": 24,
+    "url": "https://github.com/HBDev1982/oshub-catalog/releases/download/v7.0.3/OSHub-7.0.3.dmg",
+    "notes": "A Biblioteca e o indicador de espaço passam a mostrar o tamanho real dos ficheiros."
   }
 }
