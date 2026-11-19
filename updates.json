@@ -4,5 +4,11 @@
     "build": 31,
     "url": "https://github.com/HBDev1982/oshub-catalog/releases/download/v7.0.10/OSHub-7.0.10.dmg",
     "notes": "Versão de teste da atualização automática (sem alterações)."
+  },
+  "stable": {
+    "version": "7.0.10",
+    "build": 31,
+    "url": "https://github.com/HBDev1982/oshub-catalog/releases/download/v7.0.10/OSHub-7.0.10.dmg",
+    "notes": null
   }
 }
