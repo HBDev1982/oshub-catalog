@@ -10,5 +10,13 @@
     "build": 31,
     "url": "https://github.com/HBDev1982/oshub-catalog/releases/download/v7.0.10/OSHub-7.0.10.dmg",
     "notes": null
+  },
+  "shops": {
+    "pacoDeArcos": {
+      "version": "7.1.0",
+      "build": 32,
+      "url": "https://github.com/HBDev1982/oshub-catalog/releases/download/v7.1.0/OSHub-7.1.0.dmg",
+      "notes": "Loja e nome fixos por Mac, killswitch remoto, correção do bloqueio ao mudar o nome nas Definições."
+    }
   }
 }
